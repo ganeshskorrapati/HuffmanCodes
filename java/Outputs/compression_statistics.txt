@@ -1,0 +1,7 @@
+HUFFMAN CODING COMPRESSION RESULTS (BY CHARACTER)
+============================================================
+Uncompressed Size: 15800 bits (1975.00 bytes)
+Compressed Size: 6314 bits (789.25 bytes)
+Compression Ratio: 2.5024:1
+Space Savings: 60.04%
+============================================================
